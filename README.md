@@ -1,4 +1,4 @@
-# OMD GENRE ON PEUT AJOUTER DU TEXTE
+# MERCI [YOHANN](https://www.github.com/ythepaut) DE ME FOLLOW
 
 ![WOW](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
