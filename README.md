@@ -1,1 +1,1 @@
-<img src="background.svg" width="800" height="600" alt="oops lol">
+<img src="https://hello.ythepaut.com" width="100%" alt="i am living in your walls i am living in your walls i am living in your walls i am living in your walls i am living in your walls i am living in your walls i am living in your walls i am living in your walls i am living in your walls">
