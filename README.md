@@ -1,1 +1,1 @@
-<img src="background.svg" width="600" height="600" alt="lol">
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
